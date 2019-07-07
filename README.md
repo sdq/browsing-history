@@ -1,0 +1,1 @@
+The dataset used in this project consists of roughly 10000 diﬀerent browsing sessions. Each browsing session belongs to one of the three groups – purchaser(2), researcher(0), and supporter(1). Our goal is to build a model to identify those three groups of people based purely on their browsing histories.
